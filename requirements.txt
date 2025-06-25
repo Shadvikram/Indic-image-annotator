@@ -7,6 +7,7 @@ opencv-python-headless
 numpy
 pandas
 googletrans
+deep-translator
 matplotlib
 seaborn
 streamlit-drawable-canvas
