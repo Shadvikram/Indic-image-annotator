@@ -1,0 +1,14 @@
+streamlit
+torch
+torchvision
+transformers
+pillow
+opencv-python
+numpy
+pandas
+googletrans
+matplotlib
+seaborn
+streamlit-drawable-canvas
+python-dotenv
+requests
